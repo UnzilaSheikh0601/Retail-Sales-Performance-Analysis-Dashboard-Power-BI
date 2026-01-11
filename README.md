@@ -10,7 +10,7 @@ The dashboard provides insights into sales, profit, cost, returns, customer beha
 - Identify top cities, income groups, and education segments
 - Track Year-over-Year (YoY), Month-over-Month (MoM), and Year-to-Date (YTD) growth
 - Discover seasonality and sales trends
-- 
+
 🛠 Tools & Technologies
 
 - Power BI
