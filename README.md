@@ -103,12 +103,12 @@ Impact of returns on profit
 
 📁 Repository Structure
 📦 Retail-Sales-PowerBI
- ┣ 📊 Dashboard.pbix
- ┣ 📄 README.md
- ┣ 📂 Data
- ┃ ┗ 📄 dataset.csv
- ┣ 📂 Screenshots
- ┃ ┗ 📄 dashboard_views.png
+ - 📊 Dashboard.pbix
+ - 📄 README.md
+ - 📂 Data
+   - 📄 dataset.csv
+ - 📂 Screenshots
+   - 📄 dashboard_views.png
 
 🚀 How to Use
 
