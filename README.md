@@ -74,22 +74,26 @@ Some important DAX concepts used:
 📊 Dashboard Pages & Insights
 
 1️. Executive Summary
-High-level KPIs (Sales, Profit, Margin)
+Cards (Sales, Profit, Margin)
 Yearly and monthly sales trends
 
 2️. Sales Performance Analysis
 Sales by Category, Product, and Region
 Contribution % analysis
 
-3️. Customer Analysis
+3. Profitability Analysis
+Profit by Product Brand, District
+Profit Margin by Year & Quarter
+
+4. Customer Analysis
 Average Sales per Customer
 Customer distribution and behavior
 
-4️. Time-Based Analysis
+5. Time-Based Analysis
 Monthly and yearly trends
 YTD and MoM growth analysis
 
-5️. Returns & Stock Analysis
+6. Returns & Stock Analysis
 Return rate calculation
 Impact of returns on profit
 
